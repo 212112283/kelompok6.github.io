@@ -1,0 +1,28 @@
+body{
+    min-height: 2400px;
+}
+.jumbotron {
+
+    padding-top: 6rem ;
+    background-color: #e2f3ff;
+}
+#Projects {
+    background-color: #e2edff;
+}
+h1{
+    font-family: sans-serif;
+    color: blue;
+}
+h2{
+    color: blue;
+}
+p{
+    color: #0099CC;
+}
+.lead{
+    color: #0099CC;
+    font-weight: 450;
+}
+section{
+    padding-top: 5rem;
+}
